@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f20/jpa03-hima-97
 
-On Heroku: https://cs156-f20-jpa03-cgaucho.herokuapp.com
+On Heroku: https://cs156-f20-hima-97-jpa03.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
